@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="513"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="186" y="281" type="curve" smooth="yes"/>
+      <point x="186" y="190"/>
+      <point x="343" y="192"/>
+      <point x="343" y="278" type="curve" smooth="yes"/>
+      <point x="343" y="368"/>
+      <point x="485" y="443"/>
+      <point x="485" y="556" type="curve" smooth="yes"/>
+      <point x="485" y="577"/>
+      <point x="480" y="606"/>
+      <point x="470" y="629" type="curve" smooth="yes"/>
+      <point x="433" y="715"/>
+      <point x="331" y="726"/>
+      <point x="272" y="726" type="curve" smooth="yes"/>
+      <point x="212" y="726"/>
+      <point x="141" y="715"/>
+      <point x="95" y="690" type="curve" smooth="yes"/>
+      <point x="43" y="662"/>
+      <point x="19" y="614"/>
+      <point x="19" y="570" type="curve" smooth="yes"/>
+      <point x="19" y="465"/>
+      <point x="152" y="471"/>
+      <point x="164" y="554" type="curve" smooth="yes"/>
+      <point x="175" y="631"/>
+      <point x="348" y="640"/>
+      <point x="348" y="555" type="curve" smooth="yes"/>
+      <point x="348" y="472"/>
+      <point x="186" y="373"/>
+    </contour>
+    <contour>
+      <point x="265" y="-7" type="curve" smooth="yes"/>
+      <point x="338" y="-7"/>
+      <point x="372" y="27"/>
+      <point x="372" y="90" type="curve" smooth="yes"/>
+      <point x="372" y="150"/>
+      <point x="340" y="187"/>
+      <point x="264" y="187" type="curve" smooth="yes"/>
+      <point x="191" y="187"/>
+      <point x="157" y="153"/>
+      <point x="157" y="90" type="curve" smooth="yes"/>
+      <point x="157" y="30"/>
+      <point x="189" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-20 22:56:05 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>question</string>
+        <key>KernOnSpecialSpacing</key>
+        <dict>
+          <key>L</key>
+          <string>spaced-off</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="567"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="124" y="-16" type="curve" smooth="yes"/>
+      <point x="128" y="-16"/>
+      <point x="371" y="-6"/>
+      <point x="447" y="-16" type="curve" smooth="yes"/>
+      <point x="566" y="-32"/>
+      <point x="581" y="161"/>
+      <point x="437" y="161" type="curve" smooth="yes"/>
+      <point x="364" y="161"/>
+      <point x="315" y="118"/>
+      <point x="231" y="118" type="curve" smooth="yes"/>
+      <point x="186" y="118"/>
+      <point x="194" y="240"/>
+      <point x="186" y="309" type="curve"/>
+      <point x="259" y="309"/>
+      <point x="314" y="292"/>
+      <point x="369" y="292" type="curve" smooth="yes"/>
+      <point x="493" y="292"/>
+      <point x="493" y="429"/>
+      <point x="369" y="429" type="curve" smooth="yes"/>
+      <point x="314" y="429"/>
+      <point x="258" y="412"/>
+      <point x="185" y="412" type="curve"/>
+      <point x="191" y="482"/>
+      <point x="176" y="593"/>
+      <point x="231" y="593" type="curve" smooth="yes"/>
+      <point x="319" y="593"/>
+      <point x="362" y="549"/>
+      <point x="437" y="549" type="curve" smooth="yes"/>
+      <point x="573" y="549"/>
+      <point x="576" y="716"/>
+      <point x="447" y="716" type="curve" smooth="yes"/>
+      <point x="372" y="716"/>
+      <point x="342" y="690"/>
+      <point x="149" y="713" type="curve"/>
+      <point x="140" y="715"/>
+      <point x="132" y="716"/>
+      <point x="124" y="716" type="curve" smooth="yes"/>
+      <point x="91" y="716"/>
+      <point x="36" y="699"/>
+      <point x="36" y="626" type="curve" smooth="yes"/>
+      <point x="36" y="553"/>
+      <point x="66" y="452"/>
+      <point x="66" y="349" type="curve" smooth="yes"/>
+      <point x="66" y="248"/>
+      <point x="26" y="146"/>
+      <point x="26" y="74" type="curve" smooth="yes"/>
+      <point x="26" y="1"/>
+      <point x="91" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-20 22:56:05 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>KernOnName</key>
+        <string>E</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

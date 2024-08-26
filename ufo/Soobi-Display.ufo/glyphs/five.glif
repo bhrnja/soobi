@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five" format="2">
+  <advance width="583"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="264" y="-27" type="curve" smooth="yes"/>
+      <point x="453" y="-27"/>
+      <point x="558" y="109"/>
+      <point x="558" y="228" type="curve" smooth="yes"/>
+      <point x="558" y="336"/>
+      <point x="473" y="465"/>
+      <point x="289" y="465" type="curve" smooth="yes"/>
+      <point x="189" y="465"/>
+      <point x="191" y="428"/>
+      <point x="185" y="451" type="curve" smooth="yes"/>
+      <point x="161" y="547"/>
+      <point x="189" y="593"/>
+      <point x="246" y="593" type="curve" smooth="yes"/>
+      <point x="304" y="593"/>
+      <point x="356" y="545"/>
+      <point x="437" y="545" type="curve" smooth="yes"/>
+      <point x="584" y="545"/>
+      <point x="587" y="706"/>
+      <point x="458" y="706" type="curve" smooth="yes"/>
+      <point x="383" y="706"/>
+      <point x="343" y="691"/>
+      <point x="210" y="714" type="curve" smooth="yes"/>
+      <point x="129" y="728"/>
+      <point x="72" y="681"/>
+      <point x="72" y="630" type="curve" smooth="yes"/>
+      <point x="72" y="434"/>
+      <point x="0" y="302"/>
+      <point x="109" y="302" type="curve" smooth="yes"/>
+      <point x="168" y="302"/>
+      <point x="133" y="341"/>
+      <point x="267" y="341" type="curve" smooth="yes"/>
+      <point x="370" y="341"/>
+      <point x="405" y="318"/>
+      <point x="405" y="224" type="curve" smooth="yes"/>
+      <point x="405" y="130"/>
+      <point x="370" y="107"/>
+      <point x="270" y="107" type="curve" smooth="yes"/>
+      <point x="109" y="107"/>
+      <point x="168" y="167"/>
+      <point x="92" y="167" type="curve" smooth="yes"/>
+      <point x="-45" y="167"/>
+      <point x="38" y="-27"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-20 22:53:37 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=one</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=one</string>
+    </dict>
+  </lib>
+</glyph>

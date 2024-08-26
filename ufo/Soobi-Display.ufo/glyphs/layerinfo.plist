@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>GSOffsetHorizontal</key>
+      <integer>5</integer>
+      <key>GSOffsetKeepCompatible</key>
+      <integer>1</integer>
+      <key>GSOffsetProportional</key>
+      <integer>1</integer>
+      <key>GSOffsetVertical</key>
+      <integer>10</integer>
+      <key>KernOnIndependentPairs</key>
+      <array>
+        <string>W A</string>
+        <string>L T</string>
+        <string>A C</string>
+        <string>y quotesingle</string>
+        <string>r m</string>
+        <string>F u</string>
+        <string>y question</string>
+        <string>r question</string>
+        <string>Y v</string>
+        <string>F y</string>
+        <string>T w</string>
+        <string>A A</string>
+        <string>E R</string>
+      </array>
+      <key>KernOnModels</key>
+      <array>
+        <string>A T</string>
+        <string>hyphen Y</string>
+        <string>quotedblleft A</string>
+        <string>quotesingle A</string>
+        <string>F o</string>
+        <string>P A</string>
+        <string>F period</string>
+        <string>V period</string>
+        <string>T comma</string>
+        <string>L O</string>
+        <string>T s</string>
+        <string>W s</string>
+        <string>hyphen V</string>
+        <string>r period</string>
+        <string>F r</string>
+        <string>T r</string>
+        <string>Y u</string>
+        <string>f o</string>
+        <string>L U</string>
+        <string>T O</string>
+        <string>F O</string>
+        <string>g o</string>
+        <string>P o</string>
+        <string>L o</string>
+        <string>E v</string>
+        <string>r o</string>
+        <string>t o</string>
+        <string>v period</string>
+        <string>P r</string>
+        <string>hyphen A</string>
+        <string>c o</string>
+        <string>L A</string>
+        <string>k k</string>
+        <string>colon four</string>
+        <string>s s</string>
+        <string>F h</string>
+        <string>W h</string>
+        <string>T h</string>
+        <string>j b</string>
+        <string>o n</string>
+        <string>D o</string>
+        <string>f j</string>
+        <string>n n</string>
+        <string>t h</string>
+        <string>g t</string>
+        <string>p o</string>
+        <string>g y</string>
+        <string>g w</string>
+        <string>y exclam</string>
+        <string>A L</string>
+        <string>f b</string>
+        <string>g quoteright</string>
+        <string>quotedblleft t</string>
+        <string>g j</string>
+        <string>r exclam</string>
+        <string>r colon</string>
+        <string>r hyphen</string>
+        <string>r quoteleft</string>
+        <string>I n</string>
+        <string>hyphen t</string>
+        <string>y colon</string>
+        <string>g comma</string>
+        <string>g colon</string>
+        <string>quotesingle t</string>
+      </array>
+    </dict>
+  </dict>
+</plist>
